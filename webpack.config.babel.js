@@ -41,7 +41,7 @@ if (!isDevelopment) {
 
 module.exports = {
   entry: {
-    index: './src/components/home/index.js'
+    index: './src/App.js'
   },
   output: {
     filename: 'watchfile.bundle.js',
